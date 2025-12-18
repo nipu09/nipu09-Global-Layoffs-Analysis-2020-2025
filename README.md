@@ -115,7 +115,7 @@ Excel / CSV – Raw dataset handling
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/global-layoffs-analysis.git
+git clone https://github.com/nipu09/global-layoffs-analysis.git
 
 
 Open SQL or Python scripts to explore analysis queries and visualizations.
